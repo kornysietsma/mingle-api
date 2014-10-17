@@ -12,7 +12,7 @@ export MINGLE_KEY=/XfZiNotArealKeyUDoofusTLA/cXYZZYmCU=
 export MINGLE_USER=myname
 export MINGLE_HOST=myhost.mingle-api.thoughtworks.com
 
-Then 'lein run <project short name>' to dump the wiki stats for a mingle project
+Then 'lein run project_short_name' to dump the wiki stats for a mingle project
 
 ## License
 
