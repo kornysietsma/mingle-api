@@ -9,7 +9,9 @@ One day this might grow into a real API, at the moment it's just useful as sampl
 set the following environment variables:
 
 export MINGLE_KEY=/XfZiNotArealKeyUDoofusTLA/cXYZZYmCU=
+
 export MINGLE_USER=myname
+
 export MINGLE_HOST=myhost.mingle-api.thoughtworks.com
 
 Then 'lein run project_short_name' to dump the wiki stats for a mingle project
